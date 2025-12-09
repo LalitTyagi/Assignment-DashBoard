@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: global gradient background */
+body {
+  @apply bg-bgDeep text-white font-sans;
+}
